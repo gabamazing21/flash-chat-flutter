@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871872281293",
+    "project_id": "flash-chat-3eb71",
+    "storage_bucket": "flash-chat-3eb71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871872281293:android:d34346cb140c1dab624784",
+        "android_client_info": {
+          "package_name": "co.sky.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871872281293-4jojibm29hf2pc9q9gvpvqos510feagi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5w8EYVBgdw7wj8RWxryFMewtidIqOwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871872281293-4jojibm29hf2pc9q9gvpvqos510feagi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
